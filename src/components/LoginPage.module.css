@@ -1,0 +1,15 @@
+.loginPage {
+    display: flex;
+    height: 700px;
+}
+
+.loginForm {
+    padding-top: 5%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.loginForm Button{
+    margin-top: 20px;
+}
+
